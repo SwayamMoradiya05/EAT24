@@ -1,0 +1,14 @@
+@media only screen and (max-width: 370px) {
+    .dxLIJS
+    {
+        padding-top: 36% !important;
+        width:fit-content
+    }
+}
+@media only screen and (max-width: 568px) {
+    .dxLIJS
+    {
+        padding-top: 36% !important;
+        width: fit-content;
+    }
+}

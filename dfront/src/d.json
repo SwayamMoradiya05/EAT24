@@ -1,0 +1,492 @@
+{
+    "restaurant": [
+        {
+            "id": "/1",
+            "p": "1",
+            "name": "La Pino'z Pizza",
+            "description": "Pizza,Pasta,Beverages,Fast Food,\nItalian,Desserts",
+            "rating": 4.2,
+            "time":26,
+            "price":400,
+            "path": "../pictures/lapinoz.jpg",
+            "href": "/Hotelmenu",
+            "nm": "hotelmenu",
+            "content": [
+                {
+                    "name": "Margherita pizza",
+                    "price": 140,
+                    "description": "A Classic Cheesy Margharita. Can't Go Wrong.",
+                    "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bmapdc1bez6qappkamqv"
+                },
+                {
+                    "name": "Garden Delight Pizza",
+                    "price": 190,
+                    "description": "A Classic Veg Pizza That Combines The Zing And Freshness Of Onions, Tomatoes And Capsicum",
+                    "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/stocialkwnws7s3etwm2"
+                },
+                {
+                    "name": "Cheezy-7 Pizza",
+                    "price": 255,
+                    "description": "An Exotic Combination Of White Mozarella, Cream, White Cheese, Monterey Jack, Cream Orange, Colby And Orange Cheddar Cheese",
+                    "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/zsztbqpe2inxyjxtrei6"
+                },
+                {
+                    "name": "Paneer Tikka Butter Masala Pizza",
+                    "price": 255,
+                    "description": "An India Speciality On A La Pinoz Pizza. Exotic Paneer Tikka, Onion, Capsicum & Red Paprika",
+                    "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ne7xgfbwbeahbubgln8v"
+                },
+                {
+                    "name": "Pesto & Basil Special Pizza",
+                    "price": 255,
+                    "description": "Capsicum,Jalapenos,Paneer With Pesto & Basil Dip",
+                    "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bmapdc1bez6qappkamqv"
+                },
+                {
+                    "name": "Tandoori Paneer Pizza",
+                    "price": 255,
+                    "description": "Capsicum, Onion, Paneer, Sweet Corn In Korma Dip",
+                    "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/habfco2a9kjztmtdpfqy"
+                },
+                {
+                    "name": "Cheese Lovers Pizza",
+                    "price": 285,
+                    "description": "Cheese Dip, Jalapenos Dip, Onion Capsicum, Paneer, Mushroom & Baby Corns",
+                    "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/u9dgvndlxagptke0nq1i"
+                },
+                {
+                    "name": "English Retreat Pizza",
+                    "price": 285,
+                    "description": "Olives,Red Paprika, Tomatoes, Paneer, Capsicum, Cheese, Jalapeno Dip. An English Special",
+                    "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/zh0m9qzswjevneurgqhy"
+                },
+                {
+                    "name": "La Pino'z Paneer Pizza",
+                    "price": 285,
+                    "description": "A La Pinoz Special. Onion, Capsicum, Paneer, Sweet Corn & Olives With Cheese Dip",
+                    "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/kfho148oclrtpnbxjfnv"
+                },
+                {
+                    "name": "2 Regular Pizza Starting At Rs 299",
+                    "price": 299,
+                    "description": "Choose any 2 of your Veg Regular Pizza",
+                    "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/a8a2c17ec5a3704acdd823c76efb4044"
+                },
+                {
+                    "name": "2 Regular Pizza Starting At Rs 299",
+                    "price": 299,
+                    "description": "Choose any 2 of your Italian Regular Pizza",
+                    "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/a8a2c17ec5a3704acdd823c76efb4044"
+                },
+                {
+                    "name": "3 Pizza Starting At Rs 649",
+                    "price": 649,
+                    "description": "Choose any 3 of your Veg Regular Pizza",
+                    "img": "https://d1sag4ddilekf6.azureedge.net/compressed_webp/items/PHITE20210928014331565066/detail/af2c7789b463495096b6a5d53e66c095_1672735658606015916.webp"
+                }
+            ]},
+            
+            {
+                "id": "/3",
+                "p": "3",
+                "name": "99 Street Food",
+                "description": "Street Food,Fast Food",
+                "rating": 3.2,
+                "time": 24,
+                "price": 100,
+                "path": "../pictures/streetfood.jpeg",
+                "href": "/Hotelmenu",
+                "nm": "hotelmenu",
+                "content": [
+                    {
+                        "name": "Paneer Tikka Sandwich",
+                        "price": 149,
+                        "description": "An indulgent sandwich stuffed generously with tender paneer slice and seasoned vegetables; served with sauce and dip.",
+                        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/dd01af127f8103d44a0a2ecd2e9ff4f9"
+                    },
+                    {
+                        "name": "Jumbo Grill Sandwich",
+                        "price": 199,
+                        "description": "Healthy and tasty cheese chocolate sandwich prepared mainly with grated cheese stuffing. The flavour of cheese and other spices provides a sweet and savoury taste",
+                        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/d1d7afa7e6ea5a8132d4d47e570dd572"
+                    },
+                    {
+                        "name": "Club Sandwich",
+                        "price": 199,
+                        "description": "Healthy and tasty cheese chocolate sandwich prepared mainly with grated cheese stuffing. The flavour of cheese and other spices provides a sweet and savoury taste.",
+                        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/a0aa059388edaed7f2592a8d7f8ca0a2"
+                    },
+                    {
+                        "name": "Paneer Tikka Butter Masala Pizza",
+                        "price": 199,
+                        "description": "An India Speciality On A La Pinoz Pizza. Exotic Paneer Tikka, Onion, Capsicum & Red Paprika",
+                        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ne7xgfbwbeahbubgln8v"
+                    },
+                    {
+                        "name": "Bombay Sandwich",
+                        "price": 79,
+                        "description": "Healthy and tasty cheese chocolate sandwich prepared mainly with grated cheese stuffing. The flavour of cheese and other spices provides a sweet and savoury taste.",
+                        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/06e114b0fd66c3411524ba21c5e88b1f"
+                    },
+                    {
+                        "name": "Aloo Mutter Sandwich",
+                        "price": 109,
+                        "description": "Healthy and tasty cheese chocolate sandwich prepared mainly with grated cheese stuffing. The flavour of cheese and other spices provides a sweet and savoury taste.",
+                        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/878d272f701abba4b33fde3d0a281fb6"
+                    },
+                    {
+                        "name": "Vegetable Frenki",
+                        "price": 148,
+                        "description": "A wholesome dish with mixed veggies wrapped in an Indian wheat bread. Serves one.",
+                        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/7342bd33c2f17105f19b2bf71b79d693"
+                    },
+                    {
+                        "name": "Cheese Burst Frenki",
+                        "price": 199,
+                        "description": "Olives,Red Paprika, Tomatoes, Paneer, Capsicum, Cheese, Jalapeno Dip. An English Special",
+                        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/c8ca153109278c6653ee53039cb3e642"
+                    },
+                    {
+                        "name": "Aloo Masala Frenki",
+                        "price": 129,
+                        "description": "A wholesome dish with mixed veggies wrapped in an Indian wheat bread. Serves one.",
+                        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/8a8d37a38df5f5f73c7cf8d9c15ea5e6"
+                    },
+                    {
+                        "name": "Cheese Bhel",
+                        "price": 99,
+                        "description": "Wholesome puffed rice mixed with tomatoes, onions, chutneys and garnished with sev and a whole lot of cheese.",
+                        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/26ba5e53047eaca94a872c34ff4a16d9"
+                    }
+                ]
+            },
+            {
+                "id": "/2",
+                "p": "2",
+                "name": "La Milano Pizzeria",
+                "description": "Pizza,Pasta,Beverages,Fast Food,\nItalian,Desserts",
+                "rating": 4.2,
+                "time": 24,
+                "price": 400,
+                "path": "../pictures/lamilano.jpeg",
+                "href": "/Hotelmenu",
+                "nm": "hotelmenu",
+                "content": [
+                    {
+                        "name": "Margherita pizza",
+                        "price": 140,
+                        "description": "A Classic Cheesy Margharita. Can't Go Wrong.",
+                        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bmapdc1bez6qappkamqv"
+                    },
+                    {
+                        "name": "Garden Delight Pizza",
+                        "price": 190,
+                        "description": "A Classic Veg Pizza That Combines The Zing And Freshness Of Onions, Tomatoes And Capsicum",
+                        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/stocialkwnws7s3etwm2"
+                    },
+                    {
+                        "name": "Cheezy-7 Pizza",
+                        "price": 255,
+                        "description": "An Exotic Combination Of White Mozarella, Cream, White Cheese, Monterey Jack, Cream Orange, Colby And Orange Cheddar Cheese",
+                        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/zsztbqpe2inxyjxtrei6"
+                    },
+                    {
+                        "name": "Paneer Tikka Butter Masala Pizza",
+                        "price": 255,
+                        "description": "An India Speciality On A La Pinoz Pizza. Exotic Paneer Tikka, Onion, Capsicum & Red Paprika",
+                        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ne7xgfbwbeahbubgln8v"
+                    },
+                    {
+                        "name": "Pesto & Basil Special Pizza",
+                        "price": 255,
+                        "description": "Capsicum,Jalapenos,Paneer With Pesto & Basil Dip",
+                        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bmapdc1bez6qappkamqv"
+                    },
+                    {
+                        "name": "Tandoori Paneer Pizza",
+                        "price": 255,
+                        "description": "Capsicum, Onion, Paneer, Sweet Corn In Korma Dip",
+                        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/habfco2a9kjztmtdpfqy"
+                    },
+                    {
+                        "name": "Cheese Lovers Pizza",
+                        "price": 285,
+                        "description": "Cheese Dip, Jalapenos Dip, Onion Capsicum, Paneer, Mushroom & Baby Corns",
+                        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/u9dgvndlxagptke0nq1i"
+                    },
+                    {
+                        "name": "English Retreat Pizza",
+                        "price": 285,
+                        "description": "Olives,Red Paprika, Tomatoes, Paneer, Capsicum, Cheese, Jalapeno Dip. An English Special",
+                        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/zh0m9qzswjevneurgqhy"
+                    },
+                    {
+                        "name": "La Pino'z Paneer Pizza",
+                        "price": 285,
+                        "description": "A La Pinoz Special. Onion, Capsicum, Paneer, Sweet Corn & Olives With Cheese Dip",
+                        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/kfho148oclrtpnbxjfnv"
+                    },
+                    {
+                        "name": "2 Regular Pizza Starting At Rs 299",
+                        "price": 299,
+                        "description": "Choose any 2 of your Veg Regular Pizza",
+                        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/a8a2c17ec5a3704acdd823c76efb4044"
+                    },
+                    {
+                        "name": "2 Regular Pizza Starting At Rs 299",
+                        "price": 299,
+                        "description": "Choose any 2 of your Italian Regular Pizza",
+                        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/a8a2c17ec5a3704acdd823c76efb4044"
+                    },
+                    {
+                        "name": "3 Pizza Starting At Rs 649",
+                        "price": 649,
+                        "description": "Choose any 3 of your Veg Regular Pizza",
+                        "img": "https://d1sag4ddilekf6.azureedge.net/compressed_webp/items/PHITE20210928014331565066/detail/af2c7789b463495096b6a5d53e66c095_1672735658606015916.webp"
+                    }
+                ]
+            },
+            {
+                "id": "/4",
+                "p": "4",
+                "name": "Karnavati Dabeli",
+                "description": "Dabeli,Vadapav,Pizza,Street Food,\nSnacks",
+                "rating": 3.2,
+                "time": 24,
+                "price": 100,
+                "path": "../pictures/karnavati.jpeg",
+                "href": "/Hotelmenu",
+                "nm": "hotelmenu",
+                "content": [
+                    {
+                        "name": "Butter Vadapav",
+                        "price": 140,
+                        "description": "",
+                        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/srtd6av2sonztwx9iuyj"
+                    },
+                    {
+                        "name": "Butter Dabeli",
+                        "price": 45,
+                        "description": "",
+                        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/hwi6lfw5zwcsuqbmxbrz"
+                    },
+                    {
+                        "name": "Cheese Dabeli",
+                        "price": 90,
+                        "description": "",
+                        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/dvwdjc5wewwkasf4enwf"
+                    },
+                    {
+                        "name": "Kutchi Bowl Dabeli",
+                        "price": 70,
+                        "description": "",
+                        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/viygtmumxl4lvuxkiu9m"
+                    },
+                    {
+                        "name": "Bombay Vadapav",
+                        "price": 30,
+                        "description": "",
+                        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/2333a25d593ccd6c858bfe86f0ba7aaf"
+                    },
+                    {
+                        "name": "French Fries",
+                        "price": 90,
+                        "description": "",
+                        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/uiewv8aeb2mfogm87lbt"
+                    },
+                    {
+                        "name": "Vegetable Sandwich",
+                        "price": 70,
+                        "description": "",
+                        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/b2b0d1a43326336d2a5aaa8a620c1878"
+                    },
+                    {
+                        "name": "Tandoori Veg Sandwich",
+                        "price": 90,
+                        "description": "",
+                        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bcc8886868f245dc288fd48488b234f0"
+                    }
+                ]
+            },
+            {
+                "id": "/5",
+                "p": "5",
+                "name": "Shree Marutinandan",
+                "description": "kathiyawadi,Indian,Punjabi",
+                "rating": 3.2,
+                "time":15,
+                "price": 100,
+                "path": "../pictures/AI.jpg",
+                "href": "/Hotelmenu",
+                "nm": "hotelmenu",
+                "content": [
+                    {
+                        "name": "LA",
+                        "price": "300"
+                    },
+                    {
+                        "name": "LA",
+                        "price": "400"
+                    }
+                ]
+            },
+            {
+                "id": "/6",
+                "p": "6",
+                "name": "Dominos Pizza",
+                "description": "Dabeli,Vadapav,Pizza,Street Food,\nSnacks",
+                "rating": 3.2,
+                "time": 24,
+                "price": 100,
+                "path": "../pictures/dominos.jpeg",
+                "href": "/Hotelmenu",
+                "nm": "hotelmenu",
+                "content": [
+                    {
+                        "name": "LA",
+                        "price": "300"
+                    },
+                    {
+                        "name": "LA",
+                        "price": "400"
+                    }
+                ]
+            },
+            {
+                "id": "/7",
+                "p": "7",
+                "name": "Khana Khazana",
+                "description": "Indian,North Indian,Chinese,\nCombo",
+                "rating": 3.2,
+                "time": 24,
+                "price": 100,
+                "path": "../pictures/khanakhazana.jpeg",
+                "href": "/Hotelmenu",
+                "nm": "hotelmenu",
+                "content": [
+                    {
+                        "name": "LA",
+                        "price": "300"
+                    },
+                    {
+                        "name": "LA",
+                        "price": "400"
+                    }
+                ]
+            },
+            {
+                "id": "/8",
+                "p": "8",
+                "name": "Sizziling Parathas",
+                "description": "Indian",
+                "rating": 3.2,
+                "time": 24,
+                "price": 100,
+                "path": "../pictures/parathas.jpeg",
+                "href": "/Hotelmenu",
+                "nm": "hotelmenu",
+                "content": [
+                    {
+                        "name": "LA",
+                        "price": "300"
+                    },
+                    {
+                        "name": "LA",
+                        "price": "400"
+                    }
+                ]
+            },
+            {
+                "id": "/9",
+                "p": "9",
+                "name": "Subway",
+                "description": "Contenential",
+                "rating": 3.2,
+                "time": 24,
+                "price": 100,
+                "path": "../pictures/subway.jpeg",
+                "href": "/Hotelmenu",
+                "nm": "hotelmenu",
+                "content": [
+                    {
+                        "name": "LA",
+                        "price": "300"
+                    },
+                    {
+                        "name": "LA",
+                        "price": "400"
+                    }
+                ]
+            },
+            {
+                "id": "/10",
+                "p": "10",
+                "name": "Paradise Bakery",
+                "description": "Bakery",
+                "rating": 3.2,
+                "time": 24,
+                "price": 100,
+                "path": "../pictures/paradise-bakery.jpeg",
+                "href": "/Hotelmenu",
+                "nm": "hotelmenu",
+                "content": [
+                    {
+                        "name": "LA",
+                        "price": "300"
+                    },
+                    {
+                        "name": "LA",
+                        "price": "400"
+                    }
+                ]
+            },
+            {
+                "id": "/11",
+                "p": "11",
+                "name": "Bombay-A-one Bhartiya",
+                "description": "Biryani,Mughlai",
+                "rating": 3.2,
+                "time": 24,
+                "price": 100,
+                "path": "../pictures/bombay.jpeg",
+                "href": "/Hotelmenu",
+                "nm": "hotelmenu",
+                "content": [
+                    {
+                        "name": "LA",
+                        "price": "300",
+                        "description": "gytg",
+                        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bmapdc1bez6qappkamqv"
+                    },
+                    {
+                        "name": "LA",
+                        "price": "400",
+                        "description": "gytg",
+                        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bmapdc1bez6qappkamqv"
+                    }
+                ]
+            },
+            {
+                "id": "/12",
+                "p": "12",
+                "name": "Bablu Chinese",
+                "description": "Chinese",
+                "rating": 3.2,
+                "time":24,
+                "price": 100,
+                "path": "../pictures/chinese.jpeg",
+                "href": "/Hotelmenu",
+                "nm": "hotelmenu",
+                "content": [
+                    {
+                        "name": "LA",
+                        "price": "300"
+                    },
+                    {
+                        "name": "LA",
+                        "price": "400"
+                    }
+                ]
+            }
+        ]
+    }

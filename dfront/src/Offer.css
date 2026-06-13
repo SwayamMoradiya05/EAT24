@@ -1,0 +1,16 @@
+#makeresponsive {
+    background-color: black;
+    padding-top: 5%;
+}
+
+@media screen and (max-width: 750px) {
+    #makeresponsive {
+        padding-top: 60px;
+    }
+}
+
+
+body {
+    overflow-x: hidden;
+}
+

@@ -1,0 +1,81 @@
+body {
+    overflow-x: hidden;
+    width: 100%;
+  }
+
+  #div1 {
+    background-color: black;
+    position: absolute;
+    z-index: 1;
+    padding-top: 6%;
+    padding-right: 10px;
+    width:100%;
+    margin: 0;
+  }
+
+  #div3 {
+
+    padding-left: 8%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+  }
+
+  @media only screen and (max-width: 1300px) {
+    
+    
+    .dropdown-content{
+      z-index: 1;
+    }
+    .imgsize {
+      height: 100px;
+      width: 130px;
+    }
+
+    .sizesmall {
+      font-size: xx-large;
+    }
+
+    .borderblack {
+      border-color: black;
+    }
+
+    #div1 {
+      background-color: black;
+      position: relative;
+      padding-top: 15%;
+      overflow-x: hidden;
+    }
+    .divtoppicks
+    {
+      padding-top: 5% !important;
+    }
+
+    .colortry {
+      color: black;
+      text-align: center;
+    }
+
+    #div2 {
+      visibility: hidden;
+    }
+
+    #div3 {
+      padding-top: 50px;
+      padding-left: 55px;
+
+    }
+
+    .textsmallclass {
+      font-size: small;
+    }
+    
+  }
+
+  a {
+    color: black;
+  }
+  .show {
+    display: block;
+  }
+
+ 

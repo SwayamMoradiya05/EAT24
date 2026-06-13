@@ -1,0 +1,20 @@
+# React
+dfront/node_modules/
+dfront/build/
+
+# Django
+db.sqlite3
+__pycache__/
+*.pyc
+
+# Environment
+.env
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Cache
+.cache/
+*.pack

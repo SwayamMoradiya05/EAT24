@@ -1,0 +1,112 @@
+
+{
+"restaurant":
+[
+{
+    "name":"La Pino'z Pizza",
+    "description":"Pizza,Pasta,Beverages,Fast Food,\nItalian,Desserts",
+    "rating":4.2,
+    "time":"26 MINS",
+    "price":"₹400 FOR TWO",
+    "path":"../pictures/lapinoz.jpg",
+    "href":"/Hotelmenu",
+    "nm":"hotelmenu",
+    "content":[{
+        "name":"LA",
+        "price":"300"},{
+            "name":"LA",
+            "price":"400"}]
+}
+,
+{
+    "name":"La Milano Pizzeria",
+    "description":"Pizza,Pasta,Beverages,Fast Food,\nItalian,Desserts",
+    "rating":4.2,
+    "time":"24 MINS",
+    "price":"₹400 FOR TWO",
+    "path":"../pictures/lamilano.jpeg",
+    "href":"menu_lamilano.html"
+},
+{
+    "name":"99 Street Food",
+    "description":"Street Food,Fast Food",
+    "rating":3.2,
+    "time":"24 MINS",
+    "price":"₹100 FOR TWO",
+    "path":"../pictures/streetfood.jpeg"
+},
+{
+    "name":"Karnavati Dabeli",
+    "description":"Dabeli,Vadapav,Pizza,Street Food,\nSnacks",
+    "rating":3.2,
+    "time":"24 MINS",
+    "price":"₹100 FOR TWO",
+    "path":"../pictures/karnavati.jpeg"
+},
+{
+    "name":"Shree Marutinandan",
+    "description":"kathiyawadi,Indian,Punjabi",
+    "rating":3.2,
+    "time":"15 MINS",
+    "price":"₹100 FOR TWO",
+    "path":"../pictures/AI.jpg"
+},
+{
+    "name":"Dominos Pizza",
+    "description":"Dabeli,Vadapav,Pizza,Street Food,\nSnacks",
+    "rating":3.2,
+    "time":"24 MINS",
+    "price":"₹100 FOR TWO",
+    "path":"../pictures/dominos.jpeg"
+},
+{
+    "name":"Khana Khazana",
+    "description":"Indian,North Indian,Chinese,\nCombo",
+    "rating":3.2,
+    "time":"24 MINS",
+    "price":"₹100 FOR TWO",
+    "path":"../pictures/khanakhazana.jpeg"
+},
+{
+    "name":"Sizziling Parathas",
+    "description":"Indian",
+    "rating":3.2,
+    "time":"24 MINS",
+    "price":"₹100 FOR TWO",
+    "path":"../pictures/parathas.jpeg"
+},
+{
+    "name":"Subway",
+    "description":"Contenential",
+    "rating":3.2,
+    "time":"24 MINS",
+    "price":"₹100 FOR TWO",
+    "path":"../pictures/subway.jpeg"
+},
+{
+    "name":"Paradise Bakery",
+    "description":"Bakery",
+    "rating":3.2,
+    "time":"24 MINS",
+    "price":"₹100 FOR TWO",
+    "path":"../pictures/paradise-bakery.jpeg"
+},
+{
+    "name":"Bombay-A-one Bhartiya",
+    "description":"Biryani,Mughlai",
+    "rating":3.2,
+    "time":"24 MINS",
+    "price":"₹100 FOR TWO",
+    "path":"../pictures/bombay.jpeg"
+},
+{
+    "name":"Bablu Chinese",
+    "description":"Chinese",
+    "rating":3.2,
+    "time":"24 MINS",
+    "price":"₹100 FOR TWO",
+    "path":"../pictures/chinese.jpeg"
+}
+]
+}
+

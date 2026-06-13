@@ -1,0 +1,23 @@
+
+{
+    "restaurant":
+    [
+    {   "id":"/1",
+        "p":"1",
+        "name":"La Pino'z Pizza",
+        "description":"Pizza,Pasta,Beverages,Fast Food,\nItalian,Desserts",
+        "rating":4.2,
+        "time":"26 MINS",
+        "price":"₹400 FOR TWO",
+        "path":"../pictures/lapinoz.jpg",
+        "href":"/Hotelmenu",
+        "nm":"hotelmenu",
+        "content":[{
+            "name":"BA",
+            "price":"600"},{
+                "name":"MMA",
+                "price":"500"}]
+    }
+]}
+    
+    
